@@ -36,6 +36,10 @@ If you're trying to recover the names of classes or methods, tough luck. That in
 
 Otherwise, check out [this guide](CUSTOMTRANSFORMER.md) on how to implement your own transformer (also, open a issue/PR so I can add support for it)
 
+## Build
+* install apache maven
+* Run `mvn install` to create jar in target directory
+
 ## Supported Obfuscators
 
 [Zelix Klassmaster](http://www.zelix.com/)  
